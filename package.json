@@ -10,9 +10,14 @@
     "contributes": {
       "themes": [
         {
-          "label": "Caffe Crema",
+          "label": "Caffe Crema Dark",
           "uiTheme": "vs-dark",
-          "path": "./themes/caffe-crema-color-theme.json"
+          "path": "./themes/caffe-crema-dark-color-theme.json"
+        },
+        {
+          "label": "Caffe Crema Light",
+          "uiTheme": "vs",
+          "path": "./themes/caffe-crema-light-color-theme.json"
         }
       ]
     }
