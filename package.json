@@ -6,7 +6,7 @@
     "version": "0.0.1",
     "engines": { "vscode": "^1.93.0" },
     "categories": ["Themes"],
-    "icon": "icon.png",
+    "icon": "cappuccino.png",
     "contributes": {
       "themes": [
         {
