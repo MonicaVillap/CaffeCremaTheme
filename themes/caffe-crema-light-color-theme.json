@@ -4,12 +4,12 @@
     "colors": {
       "editor.background": "#FDF8F3",
       "editor.foreground": "#3B2E2E",
-      "editorCursor.foreground": "#B85C38",
-      "editor.lineHighlightBackground": "#F4EAE0",
+      "editorCursor.foreground": "#b53004",
+      "editor.lineHighlightBackground": "#f5d7b9",
       "editorLineNumber.foreground": "#B9A79D",
       "editorLineNumber.activeForeground": "#B85C38",
-      "editor.selectionBackground": "#E6D2C666",
-      "editor.inactiveSelectionBackground": "#E6D2C633",
+      "editor.selectionBackground": "#85370666",
+      "editor.inactiveSelectionBackground": "#f18f532b",
       "editor.wordHighlightBackground": "#E6D2C633",
       "editor.wordHighlightStrongBackground": "#E6D2C655",
       "editorIndentGuide.background1": "#E0D6CE",
@@ -17,19 +17,19 @@
       "editorBracketMatch.background": "#F4EAE0",
       "editorBracketMatch.border": "#B85C3888",
   
-      "activityBar.background": "#EFE6DD",
+      "activityBar.background": "#b75a08a8",
       "activityBar.foreground": "#3B2E2E",
       "activityBar.activeBorder": "#B85C38",
       "activityBarBadge.background": "#B85C38",
       "activityBarBadge.foreground": "#FDF8F3",
   
-      "sideBar.background": "#F7F1EB",
+      "sideBar.background": "#f3d8bd",
       "sideBar.foreground": "#3B2E2E",
-      "sideBar.border": "#E0D6CE",
-      "sideBarTitle.foreground": "#3B2E2E",
-      "sideBarSectionHeader.background": "#EFE6DD",
+      "sideBar.border": "#f07d1e",
+      "sideBarTitle.foreground": "#f06705",
+      "sideBarSectionHeader.background": "#bf691343",
   
-      "statusBar.background": "#EFE6DD",
+      "statusBar.background": "#b75a08a8",
       "statusBar.foreground": "#3B2E2E",
       "statusBar.debuggingBackground": "#B85C38",
       "statusBar.debuggingForeground": "#FDF8F3",
@@ -78,7 +78,7 @@
       "terminal.ansiCyan": "#669999",
       "terminal.ansiWhite": "#3B2E2E",
   
-      "scrollbarSlider.background": "#0000001A",
+      "scrollbarSlider.background": "#d0810b5a",
       "scrollbarSlider.hoverBackground": "#00000033",
       "scrollbarSlider.activeBackground": "#0000003D",
   
@@ -111,12 +111,12 @@
       {
         "name": "Strings",
         "scope": ["string", "constant.other.symbol"],
-        "settings": { "foreground": "#C97A40" }
+        "settings": { "foreground": "#f47c19" }
       },
       {
         "name": "Numbers & Booleans",
         "scope": ["constant.numeric", "constant.boolean", "constant.language"],
-        "settings": { "foreground": "#D9A441" }
+        "settings": { "foreground": "#7cba0f" }
       },
       {
         "name": "Functions",
