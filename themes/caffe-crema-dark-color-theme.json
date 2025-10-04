@@ -83,7 +83,7 @@
     },
     {
       "name": "Numbers & Booleans",
-      "scope": ["constant.numeric", "constant.language.boolean"],
+      "scope": ["constant.numeric", "constant.boolean", "constant.language"],
       "settings": { "foreground": "#bad356" }
     },
     {
