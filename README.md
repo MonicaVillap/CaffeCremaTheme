@@ -10,14 +10,14 @@ Available in **Light** and **Dark Mocha** variants.
 ### ☀️ Caffe Crema Light
 A soft creamy background with cozy beige and cappuccino tones — perfect for daylight coding.
 
-![Caffe Crema Light](images/latte-light-preview.png)
+![Caffe Crema Light](images/sample-light-js.png)
 
 ---
 
-### 🌙 Caffe Crema Dark Dark
+### 🌙 Caffe Crema Dark
 A rich mocha palette with smooth browns, caramels, and subtle gold highlights for comfortable night sessions.
 
-![Caffe Crema Dark](images/latte-dark-preview.png)
+![Caffe Crema Dark](images/sample-js.png)
 
 ---
 
@@ -34,8 +34,8 @@ A rich mocha palette with smooth browns, caramels, and subtle gold highlights fo
 
 | Light | Dark |
 |-------|------|
-| ![Light Screenshot](images/screenshot-light-1.png) | ![Dark Screenshot](images/screenshot-dark-1.png) |
-| ![Light Screenshot](images/screenshot-light-2.png) | ![Dark Screenshot](images/screenshot-dark-2.png) |
+| ![Light Screenshot](images/sample-light-xml.png) | ![Dark Screenshot](images/sample-md.png) |
+| ![Light Screenshot](images/sample-light-js.png) | ![Dark Screenshot](images/sample-xml.png) |
 
 ---
 

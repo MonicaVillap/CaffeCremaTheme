@@ -1,4 +1,4 @@
-// ☕ Latte Aesthetic — JavaScript Demo
+// Latte Aesthetic — JavaScript Demo
 function brewCoffee(type = "Latte") {
     const milk = { hot: true, foam: true };
     const coffee = {
