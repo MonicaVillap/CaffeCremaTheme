@@ -20,13 +20,13 @@
       "activityBar.background": "#864a06a8",
       "activityBar.foreground": "#3B2E2E",
       "activityBar.activeBorder": "#624337",
-      "activityBarBadge.background": "#7e440a",
-      "activityBarBadge.foreground": "#dd964f",
+      "activityBarBadge.background": "#824a01",
+      "activityBarBadge.foreground": "#ece8e4",
   
       "sideBar.background": "#efe3d3",
       "sideBar.foreground": "#3B2E2E",
       "sideBar.border": "#f07d1e",
-      "sideBarTitle.foreground": "#f06705",
+      "sideBarTitle.foreground": "#647506",
       "sideBarSectionHeader.background": "#bf691343",
   
       "statusBar.background": "#956032a8",
