@@ -1,0 +1,15 @@
+{
+    "//": "☕ Latte Aesthetic — JSON Demo",
+    "theme": "Caffe Crema Dark",
+    "author": "Monica Villarroel",
+    "settings": {
+      "editor.fontFamily": "Fira Code",
+      "editor.fontLigatures": true,
+      "workbench.colorTheme": "Latte Mocha Dark"
+    },
+    "favorites": [
+      { "drink": "Cappuccino", "size": "medium" },
+      { "drink": "Iced Latte", "size": "large" }
+    ]
+  }
+  

@@ -1,0 +1,16 @@
+<!-- ☕ Latte Aesthetic — XML Demo -->
+<menu>
+    <coffee id="latte" size="medium" price="4.50">
+      <name>Caramel Latte</name>
+      <milk type="oat" foam="true"/>
+      <extras>
+        <syrup flavor="caramel"/>
+        <topping type="cinnamon"/>
+      </extras>
+    </coffee>
+    <coffee id="espresso" size="small" price="3.00">
+      <name>Espresso</name>
+      <strength>5</strength>
+    </coffee>
+  </menu>
+  
