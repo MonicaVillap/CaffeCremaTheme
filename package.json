@@ -5,8 +5,9 @@
     "publisher": "monicavillarroel",
     "version": "0.0.1",
     "engines": { "vscode": "^1.93.0" },
+    "keywords": ["theme", "dark", "light", "pastel", "coffee", "cozy", "soft", "brown", "creamy"],
     "categories": ["Themes"],
-    "icon": "cappuccino.png",
+    "icon": "images/cappuccino.png",
     "contributes": {
       "themes": [
         {
