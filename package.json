@@ -2,8 +2,8 @@
     "name": "caffe-crema-theme",
     "displayName": "Caffe Crema",
     "description": "A cozy cappuccino-inspired theme: espresso darks, creamy lights, and caramel accents.",
-    "publisher": "monicavillarroel",
-    "version": "0.0.1",
+    "publisher": "MonicaVillarroel",
+    "version": "1.0.0",
     "engines": { "vscode": "^1.93.0" },
     "keywords": ["theme", "dark", "light", "pastel", "coffee", "cozy", "soft", "brown", "creamy"],
     "categories": ["Themes"],
@@ -20,7 +20,11 @@
           "uiTheme": "vs",
           "path": "./themes/caffe-crema-light-color-theme.json"
         }
-      ]
+      ],
+    "repository": { "type": "git", "url": "https://github.com/MonicaVillap/CaffeCremaTheme" },
+    "homepage": "https://github.com/MonicaVillap/CaffeCremaTheme",
+    "license": "MIT",
+    "galleryBanner": { "color": "#2A231E", "theme": "dark" }
     }
   }
   
