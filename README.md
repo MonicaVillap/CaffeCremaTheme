@@ -3,7 +3,6 @@
 A collection of **warm, elegant and coffee-inspired VS Code themes**, designed to bring calm and focus to your workspace.  
 Available in **Light** and **Dark Mocha** variants.
 
----
 
 <p align="center">
   <strong>Wanna support my work?</strong><br><br>
