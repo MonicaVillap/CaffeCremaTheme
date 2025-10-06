@@ -60,6 +60,7 @@
       "dropdown.listBackground": "#F4EAE0",
   
       "list.activeSelectionBackground": "#E6D2C6",
+      "list.focusOutline": "#C9A074",
       "list.inactiveSelectionBackground": "#EFE6DD",
       "list.hoverBackground": "#F4EAE0",
       "list.focusBackground": "#E6D2C6",
@@ -176,7 +177,7 @@
       {
         "name": "XML Tags",
         "scope": ["entity.name.tag"],
-        "settings": { "foreground": "#A67C52", "fontStyle": "bold" }
+        "settings": { "foreground": "#9a6530", "fontStyle": "bold" }
       },
       {
         "name": "XML Attributes",
@@ -186,12 +187,12 @@
       {
         "name": "XML Attribute Values",
         "scope": ["string.quoted.double.xml", "string.quoted.single.xml"],
-        "settings": { "foreground": "#6E8B6A" }
+        "settings": { "foreground": "#5f9259" }
       },
       {
         "name": "XML Punctuation",
         "scope": ["punctuation.definition.tag", "punctuation.separator.key-value.xml"],
-        "settings": { "foreground": "#B8AAA0" }
+        "settings": { "foreground": "#e7680e" }
       },
       {
         "name": "XML Declarations",

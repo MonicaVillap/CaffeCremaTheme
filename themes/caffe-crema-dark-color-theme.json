@@ -51,6 +51,7 @@
       "button.hoverBackground": "#E3B98C",
 
       "list.activeSelectionBackground": "#5931198b",
+      "list.focusOutline": "#280452",
       "list.inactiveSelectionBackground": "#85502d",
       "list.hoverBackground": "#412202",
       "list.focusForeground": "#3B2E2E",
