@@ -8,6 +8,10 @@
     "keywords": ["theme", "dark", "light", "pastel", "coffee", "cozy", "soft", "brown", "creamy"],
     "categories": ["Themes"],
     "icon": "images/cappuccino.png",
+    "repository": { "type": "git", "url": "https://github.com/MonicaVillap/CaffeCremaTheme" },
+    "homepage": "https://github.com/MonicaVillap/CaffeCremaTheme",
+    "license": "MIT",
+    "galleryBanner": { "color": "#2A231E", "theme": "dark" },
     "contributes": {
       "themes": [
         {
@@ -20,11 +24,7 @@
           "uiTheme": "vs",
           "path": "./themes/caffe-crema-light-color-theme.json"
         }
-      ],
-    "repository": { "type": "git", "url": "https://github.com/MonicaVillap/CaffeCremaTheme" },
-    "homepage": "https://github.com/MonicaVillap/CaffeCremaTheme",
-    "license": "MIT",
-    "galleryBanner": { "color": "#2A231E", "theme": "dark" }
+      ]
     }
   }
   
