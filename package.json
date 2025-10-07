@@ -10,6 +10,9 @@
     "icon": "images/cappuccino.png",
     "repository": { "type": "git", "url": "https://github.com/MonicaVillap/CaffeCremaTheme" },
     "homepage": "https://github.com/MonicaVillap/CaffeCremaTheme",
+    "bugs": {
+      "url": "https://github.com/MonicaVillap/CaffeCremaTheme/issues"
+    },
     "license": "MIT",
     "galleryBanner": { "color": "#2A231E", "theme": "dark" },
     "contributes": {
