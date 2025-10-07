@@ -4,7 +4,7 @@
     "description": "A cozy cappuccino-inspired theme: espresso darks, creamy lights, and caramel accents.",
     "publisher": "MonicaVilla",
     "version": "1.0.0",
-    "engines": { "vscode": "^1.93.0" },
+    "engines": { "vscode": "^1.91.0" },
     "keywords": ["theme", "dark", "light", "pastel", "coffee", "cozy", "soft", "brown", "creamy"],
     "categories": ["Themes"],
     "icon": "images/cappuccino.png",
