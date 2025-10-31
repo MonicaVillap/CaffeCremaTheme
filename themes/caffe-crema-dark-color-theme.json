@@ -54,7 +54,9 @@
       "list.focusOutline": "#280452",
       "list.inactiveSelectionBackground": "#85502d",
       "list.hoverBackground": "#412202",
-      "list.focusForeground": "#3B2E2E",
+      "list.focusForeground": "#e0b46e",
+      "list.activeSelectionForeground": "#dcee8f",
+      "list.hoverForeground": "#728a3f",
 
 
       "terminal.background": "#2B1F1A",
